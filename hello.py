@@ -1,1 +1,1 @@
-print("Hello World")
+print(open('sus.txt', 'r').read())
